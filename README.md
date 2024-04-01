@@ -2,7 +2,7 @@
 
 I have a bachelors degree in web development
 
-Currently working as a React Native developer
+Currently working as a frontend developer
 
 <!--
 ![stats](https://github-readme-stats.vercel.app/api?username=Adnan-Bacic&show_icons=true&theme=dark)
